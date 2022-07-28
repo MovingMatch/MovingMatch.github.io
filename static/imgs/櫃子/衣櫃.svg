@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 240 240" style="enable-background:new 0 0 240 240;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FDEFC6;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#F9E2B2;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_2_);}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#D7A381;}
+</style>
+<g>
+	<polygon class="st0" points="163.17,40.31 136.73,224.01 76.83,20.99 103.27,5.72 	"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="107.4695" y1="216.7859" x2="109.9133" y2="212.7187">
+		<stop  offset="0" style="stop-color:#DDAE88"/>
+		<stop  offset="1" style="stop-color:#D7A381"/>
+	</linearGradient>
+	<polygon class="st1" points="139.01,228.59 139.01,234.28 79.11,199.69 79.11,194.01 	"/>
+	<polygon class="st2" points="80.57,200.54 79.11,199.69 79.11,194.01 	"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="176.546" y1="144.5917" x2="141.9131" y2="134.6609">
+		<stop  offset="0" style="stop-color:#D7A381"/>
+		<stop  offset="1" style="stop-color:#DFB18C"/>
+	</linearGradient>
+	<polygon class="st3" points="163.17,40.31 136.73,55.58 136.73,229.91 139.01,228.59 139.01,234.28 161.32,221.4 161.32,212.99 
+		163.17,211.92 	"/>
+	<polygon class="st2" points="76.83,20.99 136.73,55.58 136.73,229.91 107.18,212.85 107.18,211.29 106.37,212.38 76.83,195.32 
+		76.83,25.08 77.58,24.58 76.83,24.14 	"/>
+	<polygon class="st4" points="139.01,228.59 139,57.41 138.19,57.88 138.19,229.06 	"/>
+	<polygon class="st4" points="137.11,58.51 139,57.41 139.01,58.35 137.11,59.44 	"/>
+	<path class="st0" d="M136.73,58.73c-18.49-10.68-43.09-24.88-59.15-34.15l-0.75,0.5c19.27,11.13,39.83,23,59.9,34.59l0.23-0.13
+		l-0.23-0.13V58.73z"/>
+	<path class="st4" d="M136.73,58.73c-19.65-11.34-39.2-22.63-58.85-33.98l-0.58,0.34c17.69,10.21,40.62,23.45,59.66,34.45l0.86-0.49
+		l-0.63-0.58L136.73,58.73z"/>
+	<polygon class="st4" points="107.18,211.91 107.18,41.67 106.37,42.14 106.37,212.38 	"/>
+</g>
+</svg>
